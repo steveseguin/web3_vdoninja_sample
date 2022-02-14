@@ -142,7 +142,7 @@ checkForMessages(roomid, false); // clear existing messages.
 
 var iframe = document.createElement("iframe");
 iframe.allow = "autoplay;camera;microphone;fullscreen;picture-in-picture;display-capture;";
-iframe.src = "../?bypass&password=iOTAtest123&room="+roomid;
+iframe.src = "https://fleek.vdo.ninja/?bypass&password=iOTAtest123&room="+roomid; // requires VDO.Ninja v21 (or perhaps newer) to function
 iframe.style.width="100%";
 iframe.style.height="100%";
 
