@@ -1,3 +1,5 @@
+// copyright steve seguin
+
 const { retrieveData, sendData, SingleNodeClient } = require("@iota/iota.js");
 const { Converter }  = require("@iota/util.js");
 var IOTA = {};
