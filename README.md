@@ -1,4 +1,4 @@
-# web3_vdoninja_sample
+# Web3 VDO.Ninja prototype - distributed hosting + handshake server
 
 This project uses IOTA.org blockchain as a handshake server for VDO.Ninja.  IOTA is a fee-less blockchain with the ability to transact up to 32-kb values between addresses with a approximate 10-second transfer time.
 
